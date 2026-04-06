@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AstroServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18d3da086d1ee19933722cbbbf1a08beba40bb87")]
 [assembly: System.Reflection.AssemblyProductAttribute("AstroServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AstroServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
