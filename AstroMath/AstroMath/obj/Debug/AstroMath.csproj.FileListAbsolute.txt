@@ -1,0 +1,6 @@
+D:\TAFE\Programming Diploma2\Github\Malin-Space-Science-Systems\AstroMath\AstroMath\bin\Debug\AstroMath.dll
+D:\TAFE\Programming Diploma2\Github\Malin-Space-Science-Systems\AstroMath\AstroMath\bin\Debug\AstroMath.pdb
+D:\TAFE\Programming Diploma2\Github\Malin-Space-Science-Systems\AstroMath\AstroMath\obj\Debug\AstroMath.csproj.AssemblyReference.cache
+D:\TAFE\Programming Diploma2\Github\Malin-Space-Science-Systems\AstroMath\AstroMath\obj\Debug\AstroMath.csproj.CoreCompileInputs.cache
+D:\TAFE\Programming Diploma2\Github\Malin-Space-Science-Systems\AstroMath\AstroMath\obj\Debug\AstroMath.dll
+D:\TAFE\Programming Diploma2\Github\Malin-Space-Science-Systems\AstroMath\AstroMath\obj\Debug\AstroMath.pdb
